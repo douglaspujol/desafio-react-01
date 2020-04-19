@@ -6,6 +6,8 @@
 
 body {
   font-size: 14px;
+  font-family: sans-serif;
+  
 }
 
 div {
@@ -24,9 +26,10 @@ div li + li {
 
 button {
   background: #7159c1;
+  border-radius: 5px;
   color: #fff;
   border: 0;
-  padding: 10px 15px;
+  padding: 8px 13px;
   cursor: pointer;
   margin-top: 15px;
   font-weight: bold;
